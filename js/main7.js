@@ -66,15 +66,15 @@
 
             function preload() {
 
-                game.load.image('tech', 'assets/MedExGoneVeryWrong/large dude.png');
-                game.load.image('zapper', 'assets/MedExGoneVeryWrong/blowgun.png');
-                game.load.image('bright lab', 'assets/MedExGoneVeryWrong/1024 x 512 lab bright.png');
-                game.load.image('bullet', 'assets/MedExGoneVeryWrong/bullet.png');
-                game.load.image('bug', 'assets/MedExGoneVeryWrong/slime.png');
-                game.load.image('bigbug', 'assets/MedExGoneVeryWrong/ large slime.png');
-                game.load.spritesheet('kaboom', 'assets/MedExGoneVeryWrong/explosion.png', 64, 64, 23);
-                game.load.image('rip', 'assets/MedExGoneVeryWrong/RIP.png');
-                game.load.image('hero', 'assets/MedExGoneVeryWrong/hero.png');
+                game.load.image('tech', 'assets/large dude.png');
+                game.load.image('zapper', 'assets/blowgun.png');
+                game.load.image('bright lab', 'assets/1024 x 512 lab bright.png');
+                game.load.image('bullet', 'assets/bullet.png');
+                game.load.image('bug', 'assets/slime.png');
+                game.load.image('bigbug', 'assets/ large slime.png');
+                game.load.spritesheet('kaboom', 'assets/explosion.png', 64, 64, 23);
+                game.load.image('rip', 'assets/RIP.png');
+                game.load.image('hero', 'assets/hero.png');
 
 
             }
